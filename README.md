@@ -43,6 +43,7 @@ Frontend:
 React
 Vite
 Tailwind CSS
+<<<<<<< HEAD
 
 PROJECT STRUCTURE
 
@@ -66,3 +67,4 @@ Frontend:
 cd frontend
 npm install
 npm run dev
+=======
